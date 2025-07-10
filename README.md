@@ -1,37 +1,14 @@
-# animated_switch_login
+# 🔐 Flutter Login/Signup Animation
 
-A new Flutter project.
+A beautiful and smooth login/signup animation built with Flutter. It transitions between login and signup forms using `AnimatedContainer`, `AnimatedSwitcher`, and `FadeTransition`, enhancing the user experience with modern UI effects.
 
-## Getting Started
+## 🚀 Features
 
-
-
-# Screenshot 1
-
-<img src ="https://github.com/Mirzaazmath/custom_animated_door_login/blob/main/assets/output/Screenshot1.png" height="400">
-
-
-# Screenshot 2
-
-<img src ="https://github.com/Mirzaazmath/custom_animated_door_login/blob/main/assets/output/Screenshot2.png" height="400">
-
-
-
-# Result
-
-<img src ="https://github.com/Mirzaazmath/custom_animated_door_login/blob/main/assets/output/result.gif" height="400">
+- 🔄 Smooth transition between login & signup
+- 🎨 Clean UI with modern Flutter widgets
+- 💡 State management using StatefulWidget
+- ⚙️ Lightweight and easy to customize
 
 
 
 
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
